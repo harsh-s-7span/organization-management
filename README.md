@@ -30,6 +30,10 @@ spring.datasource.password=your_database_password
 - [ER Diagram](src/main/resources/ER-Diagram.png)
 - [Postman Collection](src/main/resources/postman_collection.json)
 
+## GitHub Flow
+- We have followed GitHub flow so branches created accordingly. I have committed the code in **java-challenge-v2** branch
+    - **master -> develop -> java-challenge-v2**
+
 ## Additional Notes
 
 - Generally, there are two approaches to work with apis:
